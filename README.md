@@ -1,3 +1,5 @@
+<img width="956" height="500" alt="image" src="https://github.com/user-attachments/assets/6b5a919a-eee0-428b-ac0d-993f72cae427" />
+
 # E-KYC Website Integration (India)
 
 This project delegates customer identity checks to Digio DigiKYC. Streamlit starts a request through FastAPI, the customer completes Digio's hosted KYC flow, and the website reads the final provider status. The app does not locally compare faces or store uploaded documents/face templates.
