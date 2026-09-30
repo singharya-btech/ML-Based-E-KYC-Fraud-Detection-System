@@ -70,6 +70,8 @@ python -m unittest discover -s tests -v
 This is a provider-backed integration scaffold, not a certification of regulatory compliance. Before accepting real customers, complete Digio onboarding and template approval; verify that your templates require the intended ID verification, selfie match, liveness, and approval rules; configure a public HTTPS webhook and verify sandbox and production account behavior; keep FastAPI's session endpoints on a private network and expose only the webhook through an HTTPS reverse proxy; add rate limits, user authentication/authorization, audit/retention/deletion processes, encrypted backups, monitoring, incident response, and a user privacy/consent notice; and obtain legal/compliance approval for your exact Aadhaar/PAN use case. Never use a sandbox result to make a production decision.
 
 ## Docker Compose
+<img width="745" height="341" alt="image" src="https://github.com/user-attachments/assets/c922722a-683b-4770-adcd-9b270a0ee217" />
+
 
 Prerequisites: Docker Engine/Desktop with Compose v2 and a configured local `.env`.
 
