@@ -1,0 +1,6 @@
+data/ekyc.sqlite3
+data/ekyc.sqlite3-shm
+data/ekyc.sqlite3-wal
+data/.ekyc-id-hash-key
+data/kyc_sessions.sqlite3
+.env

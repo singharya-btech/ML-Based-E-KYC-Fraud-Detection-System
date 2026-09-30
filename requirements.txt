@@ -1,0 +1,6 @@
+streamlit
+fastapi
+uvicorn[standard]
+httpx
+python-dotenv
+prometheus-fastapi-instrumentator

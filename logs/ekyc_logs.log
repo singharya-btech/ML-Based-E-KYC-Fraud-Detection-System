@@ -1,0 +1,666 @@
+[2026-09-29 20:01:03,450: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:01:12,418: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:01:12,650: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:01:53,376: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:01:59,092: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:01:59,239: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:16:44,775: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:16:53,880: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:16:54,093: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:19:46,082: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:19:54,232: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:19:54,392: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:19:54,399: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 20:19:54,400: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 20:19:54,454: INFO: app]: ID card type selected: PAN
+[2026-09-29 20:19:54,454: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 20:20:29,495: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:20:29,497: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 20:20:29,498: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 20:20:29,500: INFO: app]: ID card type selected: PAN
+[2026-09-29 20:20:29,501: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 20:20:42,492: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:20:42,494: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 20:20:42,494: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 20:20:42,499: INFO: app]: ID card type selected: PAN
+[2026-09-29 20:20:42,500: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 20:23:54,453: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:23:54,457: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 20:23:54,458: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 20:23:54,462: INFO: app]: ID card type selected: PAN
+[2026-09-29 20:23:54,463: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 20:24:05,269: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:24:05,270: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 20:24:05,271: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 20:24:05,275: INFO: app]: ID card type selected: PAN
+[2026-09-29 20:24:05,275: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 20:24:05,315: INFO: app]: Face image loaded.
+[2026-09-29 20:24:05,332: INFO: app]: ID card image loaded.
+[2026-09-29 20:24:05,368: INFO: preprocess]: contours are found at, (0, 0, 960, 1280)
+[2026-09-29 20:24:05,369: WARNING: utils]: File does not exist at C:\Users\arya singh\EKYC\Project1\data\Data2\contour_id.jpg
+[2026-09-29 20:24:05,380: INFO: app]: ID card ROI extracted.
+[2026-09-29 20:24:05,380: INFO: face_verification]: Extracting face...
+[2026-09-29 20:24:06,742: INFO: face_verification]: Extracted face saved at: C:\Users\arya singh\EKYC\Project1\data\Data2\extracted_face.jpg
+[2026-09-29 20:24:06,751: WARNING: utils]: File does not exist at data\02_intermediate_data\face_image.jpg
+[2026-09-29 20:24:06,760: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2026-09-29 20:24:06,760: INFO: app]: Faces extracted and saved.
+[2026-09-29 20:24:20,658: WARNING: module_wrapper]: From C:\Users\arya singh\AppData\Roaming\Python\Python313\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+[2026-09-29 20:34:34,780: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:34:34,816: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 20:34:34,818: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 20:34:34,849: INFO: app]: ID card type selected: PAN
+[2026-09-29 20:34:34,850: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 20:36:28,722: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:36:28,726: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 20:36:28,727: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 20:36:28,732: INFO: app]: ID card type selected: PAN
+[2026-09-29 20:36:28,733: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 20:36:45,663: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:36:45,664: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 20:36:45,664: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 20:36:45,668: INFO: app]: ID card type selected: PAN
+[2026-09-29 20:36:45,669: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 20:36:57,886: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:36:57,887: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 20:36:57,887: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 20:36:57,889: INFO: app]: ID card type selected: PAN
+[2026-09-29 20:36:57,890: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 20:36:57,925: INFO: app]: Face image loaded.
+[2026-09-29 20:36:57,939: INFO: app]: ID card image loaded.
+[2026-09-29 20:36:57,974: INFO: preprocess]: contours are found at, (0, 218, 773, 1062)
+[2026-09-29 20:36:57,975: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\contour_id.jpg
+[2026-09-29 20:36:57,986: INFO: app]: ID card ROI extracted.
+[2026-09-29 20:36:57,986: INFO: face_verification]: Extracting face...
+[2026-09-29 20:36:58,233: INFO: face_verification]: Extracted face saved at: C:\Users\arya singh\EKYC\Project1\data\Data2\extracted_face.jpg
+[2026-09-29 20:36:58,238: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2026-09-29 20:36:58,244: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2026-09-29 20:36:58,245: INFO: app]: Faces extracted and saved.
+[2026-09-29 20:37:01,795: WARNING: module_wrapper]: From C:\Users\arya singh\AppData\Roaming\Python\Python313\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2026-09-29 20:37:02,137: INFO: face_verification]: Verifying the images....
+[2026-09-29 20:37:02,137: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2026-09-29 20:37:02,137: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\extracted_face.jpg
+[2026-09-29 20:39:26,522: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:39:33,806: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:39:33,920: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:39:33,933: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 20:39:33,934: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 20:39:33,950: INFO: app]: ID card type selected: PAN
+[2026-09-29 20:39:33,950: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 20:40:00,480: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:40:00,480: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 20:40:00,481: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 20:40:00,482: INFO: app]: ID card type selected: PAN
+[2026-09-29 20:40:00,483: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 20:40:28,214: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:40:28,214: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 20:40:28,215: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 20:40:28,216: INFO: app]: ID card type selected: PAN
+[2026-09-29 20:40:28,217: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 20:40:36,952: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:40:36,953: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 20:40:36,954: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 20:40:36,956: INFO: app]: ID card type selected: PAN
+[2026-09-29 20:40:36,956: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 20:40:36,986: INFO: app]: Face image loaded.
+[2026-09-29 20:40:36,998: INFO: app]: ID card image loaded.
+[2026-09-29 20:40:37,026: INFO: preprocess]: contours are found at, (0, 0, 960, 1280)
+[2026-09-29 20:40:37,026: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\contour_id.jpg
+[2026-09-29 20:40:37,034: INFO: app]: ID card ROI extracted.
+[2026-09-29 20:40:37,034: INFO: face_verification]: Extracting face...
+[2026-09-29 20:40:37,946: INFO: face_verification]: Extracted face saved at: C:\Users\arya singh\EKYC\Project1\data\Data2\extracted_face.jpg
+[2026-09-29 20:40:37,953: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2026-09-29 20:40:37,960: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2026-09-29 20:40:37,961: INFO: app]: Faces extracted and saved.
+[2026-09-29 20:40:45,613: WARNING: module_wrapper]: From C:\Users\arya singh\AppData\Roaming\Python\Python313\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2026-09-29 20:40:46,239: INFO: face_verification]: Verifying the images....
+[2026-09-29 20:40:46,239: INFO: utils]: File exists at data\02_intermediate_data\face_image.jpg
+[2026-09-29 20:40:46,240: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\extracted_face.jpg
+[2026-09-29 20:48:30,290: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:48:30,313: INFO: face_verification]: Extracting face...
+[2026-09-29 20:48:30,741: INFO: face_verification]: Extracted face saved at: C:\Users\arya singh\EKYC\Project1\data\Data2\verify_uploaded_face.jpg
+[2026-09-29 20:48:30,748: INFO: face_verification]: Extracting face...
+[2026-09-29 20:48:30,947: INFO: face_verification]: Extracted face saved at: C:\Users\arya singh\EKYC\Project1\data\Data2\verify_id_face.jpg
+[2026-09-29 20:48:36,558: WARNING: module_wrapper]: From C:\Users\arya singh\AppData\Roaming\Python\Python313\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2026-09-29 20:48:37,808: INFO: face_verification]: Verifying the images....
+[2026-09-29 20:48:37,808: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\verify_uploaded_face.jpg
+[2026-09-29 20:48:37,808: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\verify_id_face.jpg
+[2026-09-29 20:48:42,800: INFO: face_verification]: Faces are not verified as the same person
+[2026-09-29 20:49:17,068: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:49:23,808: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:49:23,959: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:49:23,975: INFO: face_verification]: Extracting face...
+[2026-09-29 20:49:24,763: INFO: face_verification]: Extracted face saved at: C:\Users\arya singh\EKYC\Project1\data\Data2\smoke_uploaded_face.jpg
+[2026-09-29 20:49:24,775: INFO: face_verification]: Extracting face...
+[2026-09-29 20:49:25,037: INFO: face_verification]: Extracted face saved at: C:\Users\arya singh\EKYC\Project1\data\Data2\smoke_id_face.jpg
+[2026-09-29 20:49:33,016: WARNING: module_wrapper]: From C:\Users\arya singh\AppData\Roaming\Python\Python313\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2026-09-29 20:49:33,687: INFO: face_verification]: Verifying the images....
+[2026-09-29 20:49:33,687: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\smoke_uploaded_face.jpg
+[2026-09-29 20:49:33,687: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\smoke_id_face.jpg
+[2026-09-29 20:49:39,584: INFO: face_verification]: Faces are not verified as the same person
+[2026-09-29 20:50:45,988: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:50:51,772: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:50:51,890: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:50:51,894: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 20:50:51,895: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 20:50:51,898: INFO: app]: ID card type selected: PAN
+[2026-09-29 20:50:51,898: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 20:51:19,967: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:51:19,968: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 20:51:19,968: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 20:51:19,970: INFO: app]: ID card type selected: PAN
+[2026-09-29 20:51:19,971: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 20:51:27,873: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:51:27,874: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 20:51:27,875: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 20:51:27,877: INFO: app]: ID card type selected: PAN
+[2026-09-29 20:51:27,877: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 20:51:27,903: INFO: app]: Face image loaded.
+[2026-09-29 20:51:27,918: INFO: app]: ID card image loaded.
+[2026-09-29 20:51:27,946: INFO: preprocess]: contours are found at, (0, 218, 773, 1062)
+[2026-09-29 20:51:27,946: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\contour_id.jpg
+[2026-09-29 20:51:27,955: INFO: app]: ID card ROI extracted.
+[2026-09-29 20:51:27,955: INFO: face_verification]: Extracting face...
+[2026-09-29 20:51:28,697: INFO: face_verification]: Extracted face saved at: C:\Users\arya singh\EKYC\Project1\data\Data2\uploaded_face.jpg
+[2026-09-29 20:51:28,706: INFO: face_verification]: Extracting face...
+[2026-09-29 20:51:28,863: INFO: face_verification]: Extracted face saved at: C:\Users\arya singh\EKYC\Project1\data\Data2\extracted_face.jpg
+[2026-09-29 20:51:28,867: INFO: app]: Faces extracted and saved.
+[2026-09-29 20:51:34,870: WARNING: module_wrapper]: From C:\Users\arya singh\AppData\Roaming\Python\Python313\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2026-09-29 20:51:35,554: INFO: face_verification]: Verifying the images....
+[2026-09-29 20:51:35,554: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\uploaded_face.jpg
+[2026-09-29 20:51:35,554: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\extracted_face.jpg
+[2026-09-29 20:51:41,093: INFO: face_verification]: Faces are not verified as the same person
+[2026-09-29 20:51:41,094: INFO: app]: Face verification status: failed.
+[2026-09-29 20:52:01,219: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:52:01,220: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 20:52:01,220: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 20:52:01,224: INFO: app]: ID card type selected: PAN
+[2026-09-29 20:52:01,225: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 20:52:01,496: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:52:01,496: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 20:52:01,497: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 20:52:01,499: INFO: app]: ID card type selected: PAN
+[2026-09-29 20:52:01,499: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 20:52:01,516: INFO: app]: Face image loaded.
+[2026-09-29 20:52:01,532: INFO: app]: ID card image loaded.
+[2026-09-29 20:52:01,564: INFO: preprocess]: contours are found at, (0, 0, 1280, 1280)
+[2026-09-29 20:52:01,565: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\contour_id.jpg
+[2026-09-29 20:52:01,581: INFO: app]: ID card ROI extracted.
+[2026-09-29 20:52:01,581: INFO: face_verification]: Extracting face...
+[2026-09-29 20:52:01,764: INFO: face_verification]: Extracted face saved at: C:\Users\arya singh\EKYC\Project1\data\Data2\uploaded_face.jpg
+[2026-09-29 20:52:01,771: INFO: face_verification]: Extracting face...
+[2026-09-29 20:52:01,889: INFO: face_verification]: Extracted face saved at: C:\Users\arya singh\EKYC\Project1\data\Data2\extracted_face.jpg
+[2026-09-29 20:52:01,895: INFO: app]: Faces extracted and saved.
+[2026-09-29 20:52:01,895: INFO: face_verification]: Verifying the images....
+[2026-09-29 20:52:01,895: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\uploaded_face.jpg
+[2026-09-29 20:52:01,896: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\extracted_face.jpg
+[2026-09-29 20:52:02,603: INFO: face_verification]: Faces are verified as the same person
+[2026-09-29 20:52:02,603: INFO: app]: Face verification status: successful.
+[2026-09-29 20:52:02,603: INFO: ocr_engine]: Text Extraction Started...
+[2026-09-29 20:52:02,609: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2026-09-29 20:52:02,627: WARNING: easyocr]: Downloading detection model, please wait. This may take several minutes depending upon your network connection.
+[2026-09-29 20:52:21,184: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:52:21,185: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 20:52:21,186: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 20:52:21,190: INFO: app]: ID card type selected: PAN
+[2026-09-29 20:52:21,191: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 20:52:24,168: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 20:52:24,168: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 20:52:24,169: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 20:52:24,170: INFO: app]: ID card type selected: PAN
+[2026-09-29 20:52:24,171: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 20:52:24,184: INFO: app]: Face image loaded.
+[2026-09-29 20:52:24,199: INFO: app]: ID card image loaded.
+[2026-09-29 20:52:24,208: INFO: preprocess]: contours are found at, (0, 0, 1280, 1280)
+[2026-09-29 20:52:24,209: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\contour_id.jpg
+[2026-09-29 20:52:24,216: INFO: app]: ID card ROI extracted.
+[2026-09-29 20:52:24,217: INFO: face_verification]: Extracting face...
+[2026-09-29 20:52:24,337: INFO: face_verification]: Extracted face saved at: C:\Users\arya singh\EKYC\Project1\data\Data2\uploaded_face.jpg
+[2026-09-29 20:52:24,343: INFO: face_verification]: Extracting face...
+[2026-09-29 20:52:24,473: INFO: face_verification]: Extracted face saved at: C:\Users\arya singh\EKYC\Project1\data\Data2\extracted_face.jpg
+[2026-09-29 20:52:24,479: INFO: app]: Faces extracted and saved.
+[2026-09-29 20:52:24,479: INFO: face_verification]: Verifying the images....
+[2026-09-29 20:52:24,479: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\uploaded_face.jpg
+[2026-09-29 20:52:24,479: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\extracted_face.jpg
+[2026-09-29 20:52:25,188: INFO: face_verification]: Faces are verified as the same person
+[2026-09-29 20:52:25,188: INFO: app]: Face verification status: successful.
+[2026-09-29 20:52:25,188: INFO: ocr_engine]: Text Extraction Started...
+[2026-09-29 20:52:25,242: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2026-09-29 20:52:25,242: WARNING: easyocr]: Downloading detection model, please wait. This may take several minutes depending upon your network connection.
+[2026-09-29 20:52:39,754: INFO: easyocr]: Download complete
+[2026-09-29 20:52:39,754: WARNING: easyocr]: Downloading recognition model, please wait. This may take several minutes depending upon your network connection.
+[2026-09-29 20:53:00,648: INFO: easyocr]: Download complete
+[2026-09-29 20:53:00,648: WARNING: easyocr]: Downloading recognition model, please wait. This may take several minutes depending upon your network connection.
+[2026-09-29 20:53:03,702: INFO: easyocr]: Download complete.
+[2026-09-29 20:53:06,347: INFO: ocr_engine]: Inside Try-Catch...
+[2026-09-29 20:53:15,073: INFO: ocr_engine]: Extracted Text: |
+[2026-09-29 20:53:25,308: INFO: easyocr]: Download complete.
+[2026-09-29 20:53:26,964: INFO: ocr_engine]: Inside Try-Catch...
+[2026-09-29 20:53:33,459: INFO: ocr_engine]: Extracted Text: |
+[2026-09-29 21:03:54,523: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:04:05,944: WARNING: module_wrapper]: From C:\Users\arya singh\AppData\Roaming\Python\Python313\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2026-09-29 21:04:09,441: INFO: face_verification]: Verifying the images....
+[2026-09-29 21:04:09,441: INFO: utils]: File exists at data\\Data2\\uploaded_face.jpg
+[2026-09-29 21:04:09,441: INFO: utils]: File exists at data\\Data2\\extracted_face.jpg
+[2026-09-29 21:04:16,316: INFO: face_verification]: Faces are verified as the same person
+[2026-09-29 21:05:28,489: INFO: ocr_engine]: Text Extraction Started...
+[2026-09-29 21:05:28,492: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2026-09-29 21:05:32,472: INFO: ocr_engine]: Inside Try-Catch...
+[2026-09-29 21:05:44,882: INFO: ocr_engine]: Extracted Text: |HRT|INCOME TAX DEPARTMENT:|GOVT OF INDIA|Permanent Account Number Card|NLNPS9316G|
+[2026-09-29 21:06:22,886: INFO: ocr_engine]: Text Extraction Started...
+[2026-09-29 21:06:22,890: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2026-09-29 21:06:27,434: INFO: ocr_engine]: Inside Try-Catch...
+[2026-09-29 21:06:41,168: INFO: ocr_engine]: Extracted Text: |HRT|INCOME TAX DEPARTMENT:|GOVT OF INDIA|Permanent Account Number Card|NLNPS9316G|
+[2026-09-29 21:19:52,759: INFO: ocr_engine]: Text Extraction Started...
+[2026-09-29 21:19:52,762: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2026-09-29 21:19:59,363: INFO: ocr_engine]: Inside Try-Catch...
+[2026-09-29 21:20:13,734: INFO: ocr_engine]: Extracted Text: |Prakash Singh|1|Malu|8|1|3955 4302 2626|HT|Nya|
+[2026-09-29 21:36:55,865: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:37:00,690: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:37:00,711: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:37:00,716: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 21:37:00,717: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 21:37:00,718: INFO: app]: ID card type selected: PAN
+[2026-09-29 21:37:00,719: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 21:37:13,684: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:37:13,685: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 21:37:13,686: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 21:37:13,687: INFO: app]: ID card type selected: PAN
+[2026-09-29 21:37:13,687: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 21:37:21,051: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:37:21,052: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 21:37:21,053: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 21:37:21,054: INFO: app]: ID card type selected: PAN
+[2026-09-29 21:37:21,054: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 21:37:21,082: INFO: app]: Face image loaded.
+[2026-09-29 21:37:21,093: INFO: app]: ID card image loaded.
+[2026-09-29 21:37:21,121: INFO: preprocess]: contours are found at, (0, 218, 773, 1062)
+[2026-09-29 21:37:21,122: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\contour_id.jpg
+[2026-09-29 21:37:21,131: INFO: app]: ID card ROI extracted.
+[2026-09-29 21:37:21,131: INFO: face_verification]: Extracting face...
+[2026-09-29 21:37:21,976: INFO: face_verification]: Extracted face saved at: C:\Users\arya singh\EKYC\Project1\data\Data2\uploaded_face.jpg
+[2026-09-29 21:37:21,986: INFO: face_verification]: Extracting face...
+[2026-09-29 21:37:22,130: INFO: face_verification]: Extracted face saved at: C:\Users\arya singh\EKYC\Project1\data\Data2\extracted_face.jpg
+[2026-09-29 21:37:22,134: INFO: app]: Faces extracted and saved.
+[2026-09-29 21:37:28,631: WARNING: module_wrapper]: From C:\Users\arya singh\AppData\Roaming\Python\Python313\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2026-09-29 21:37:29,358: INFO: face_verification]: Verifying the images....
+[2026-09-29 21:37:29,358: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\uploaded_face.jpg
+[2026-09-29 21:37:29,358: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\extracted_face.jpg
+[2026-09-29 21:37:32,936: INFO: face_verification]: Faces are not verified as the same person
+[2026-09-29 21:37:32,936: INFO: app]: Face verification status: failed.
+[2026-09-29 21:41:15,768: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:41:23,225: WARNING: module_wrapper]: From C:\Users\arya singh\AppData\Roaming\Python\Python313\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2026-09-29 21:41:24,941: INFO: face_verification]: Verifying the images....
+[2026-09-29 21:41:24,941: INFO: utils]: File exists at data\\Data2\\uploaded_face.jpg
+[2026-09-29 21:41:24,942: INFO: utils]: File exists at data\\Data2\\extracted_face.jpg
+[2026-09-29 21:41:29,203: INFO: face_verification]: Faces did not match: distance=0.928126 threshold=0.4
+[2026-09-29 21:52:33,002: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:52:38,848: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:52:38,870: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:52:55,681: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:52:59,634: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:52:59,639: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:52:59,654: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 21:52:59,655: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 21:52:59,656: INFO: app]: ID card type selected: PAN
+[2026-09-29 21:52:59,656: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 21:54:10,268: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:54:14,572: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:54:14,599: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:54:14,603: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 21:54:14,603: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 21:54:14,605: INFO: app]: ID card type selected: PAN
+[2026-09-29 21:54:14,605: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 21:54:24,362: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:54:24,363: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 21:54:24,365: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 21:54:24,372: INFO: app]: ID card type selected: PAN
+[2026-09-29 21:54:24,374: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 21:54:35,055: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:54:35,055: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 21:54:35,056: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 21:54:35,056: INFO: app]: ID card type selected: PAN
+[2026-09-29 21:54:35,057: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 21:54:35,074: INFO: app]: Face image loaded.
+[2026-09-29 21:54:35,085: INFO: app]: ID card image loaded.
+[2026-09-29 21:54:35,108: INFO: preprocess]: contours are found at, (0, 218, 773, 1062)
+[2026-09-29 21:54:35,108: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\contour_id.jpg
+[2026-09-29 21:54:35,117: INFO: app]: ID card ROI extracted.
+[2026-09-29 21:54:35,117: INFO: face_verification]: Extracting face...
+[2026-09-29 21:54:35,979: INFO: face_verification]: Extracted face saved at: C:\Users\arya singh\EKYC\Project1\data\Data2\uploaded_face.jpg
+[2026-09-29 21:54:35,989: INFO: face_verification]: Extracting face...
+[2026-09-29 21:54:36,160: INFO: face_verification]: Extracted face saved at: C:\Users\arya singh\EKYC\Project1\data\Data2\extracted_face.jpg
+[2026-09-29 21:54:36,165: INFO: app]: Faces extracted and saved.
+[2026-09-29 21:54:42,716: WARNING: module_wrapper]: From C:\Users\arya singh\AppData\Roaming\Python\Python313\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2026-09-29 21:54:43,381: INFO: face_verification]: Verifying the images....
+[2026-09-29 21:54:43,381: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\uploaded_face.jpg
+[2026-09-29 21:54:43,381: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\extracted_face.jpg
+[2026-09-29 21:54:47,298: INFO: face_verification]: Faces did not match: distance=0.928126 threshold=0.4
+[2026-09-29 21:54:47,298: INFO: app]: Face verification status: failed.
+[2026-09-29 21:56:52,644: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:56:58,466: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:56:58,494: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:56:58,528: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 21:56:58,529: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 21:56:58,529: INFO: app]: ID card type selected: PAN
+[2026-09-29 21:56:58,530: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 21:57:15,133: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:57:15,139: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:57:15,141: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:57:15,143: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 21:57:15,143: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 21:57:15,144: INFO: app]: ID card type selected: PAN
+[2026-09-29 21:57:15,144: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 21:57:29,657: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:57:29,658: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 21:57:29,658: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 21:57:29,659: INFO: app]: ID card type selected: PAN
+[2026-09-29 21:57:29,659: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 21:57:40,083: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:57:40,084: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 21:57:40,085: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 21:57:40,086: INFO: app]: ID card type selected: PAN
+[2026-09-29 21:57:40,086: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 21:57:41,484: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:57:41,485: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 21:57:41,485: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 21:57:41,486: INFO: app]: ID card type selected: PAN
+[2026-09-29 21:57:41,486: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 21:57:41,511: INFO: app]: Face image loaded.
+[2026-09-29 21:57:41,521: INFO: app]: ID card image loaded.
+[2026-09-29 21:57:41,548: INFO: preprocess]: contours are found at, (0, 0, 960, 1280)
+[2026-09-29 21:57:41,549: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\contour_id.jpg
+[2026-09-29 21:57:41,558: INFO: app]: ID card ROI extracted.
+[2026-09-29 21:57:41,558: INFO: face_verification]: Extracting face...
+[2026-09-29 21:57:41,686: INFO: face_verification]: Extracted face saved at: C:\Users\arya singh\EKYC\Project1\data\Data2\uploaded_face.jpg
+[2026-09-29 21:57:41,694: INFO: face_verification]: Extracting face...
+[2026-09-29 21:57:41,873: INFO: face_verification]: Extracted face saved at: C:\Users\arya singh\EKYC\Project1\data\Data2\extracted_face.jpg
+[2026-09-29 21:57:41,879: INFO: app]: Faces extracted and saved.
+[2026-09-29 21:57:41,879: INFO: face_verification]: Verifying the images....
+[2026-09-29 21:57:41,879: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\uploaded_face.jpg
+[2026-09-29 21:57:41,880: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\extracted_face.jpg
+[2026-09-29 21:57:42,680: INFO: face_verification]: Faces did not match: distance=0.857065 threshold=0.4
+[2026-09-29 21:57:42,680: INFO: app]: Face verification status: failed.
+[2026-09-29 21:59:04,620: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:59:04,622: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 21:59:04,623: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 21:59:04,624: INFO: app]: ID card type selected: PAN
+[2026-09-29 21:59:04,625: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 21:59:04,915: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:59:04,915: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 21:59:04,916: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 21:59:04,917: INFO: app]: ID card type selected: PAN
+[2026-09-29 21:59:04,917: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 21:59:06,304: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:59:06,305: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 21:59:06,305: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 21:59:06,306: INFO: app]: ID card type selected: PAN
+[2026-09-29 21:59:06,306: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 21:59:06,318: INFO: app]: Face image loaded.
+[2026-09-29 21:59:06,326: INFO: app]: ID card image loaded.
+[2026-09-29 21:59:06,335: INFO: preprocess]: contours are found at, (0, 218, 773, 1062)
+[2026-09-29 21:59:06,335: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\contour_id.jpg
+[2026-09-29 21:59:06,341: INFO: app]: ID card ROI extracted.
+[2026-09-29 21:59:06,341: INFO: face_verification]: Extracting face...
+[2026-09-29 21:59:06,437: INFO: face_verification]: Extracted face saved at: C:\Users\arya singh\EKYC\Project1\data\Data2\uploaded_face.jpg
+[2026-09-29 21:59:06,442: INFO: face_verification]: Extracting face...
+[2026-09-29 21:59:06,551: INFO: face_verification]: Extracted face saved at: C:\Users\arya singh\EKYC\Project1\data\Data2\extracted_face.jpg
+[2026-09-29 21:59:06,554: INFO: app]: Faces extracted and saved.
+[2026-09-29 21:59:06,554: INFO: face_verification]: Verifying the images....
+[2026-09-29 21:59:06,554: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\uploaded_face.jpg
+[2026-09-29 21:59:06,554: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\extracted_face.jpg
+[2026-09-29 21:59:07,010: INFO: face_verification]: Faces did not match: distance=0.928126 threshold=0.4
+[2026-09-29 21:59:07,010: INFO: app]: Face verification status: failed.
+[2026-09-29 21:59:29,626: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:59:29,627: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 21:59:29,628: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 21:59:29,629: INFO: app]: ID card type selected: PAN
+[2026-09-29 21:59:29,629: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 21:59:29,908: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:59:29,908: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 21:59:29,909: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 21:59:29,909: INFO: app]: ID card type selected: PAN
+[2026-09-29 21:59:29,910: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 21:59:31,217: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 21:59:31,218: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 21:59:31,218: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 21:59:31,219: INFO: app]: ID card type selected: PAN
+[2026-09-29 21:59:31,219: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 21:59:31,238: INFO: app]: Face image loaded.
+[2026-09-29 21:59:31,247: INFO: app]: ID card image loaded.
+[2026-09-29 21:59:31,269: INFO: preprocess]: contours are found at, (0, 218, 773, 1062)
+[2026-09-29 21:59:31,270: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\contour_id.jpg
+[2026-09-29 21:59:31,274: INFO: app]: ID card ROI extracted.
+[2026-09-29 21:59:31,275: INFO: face_verification]: Extracting face...
+[2026-09-29 21:59:31,429: INFO: face_verification]: Extracted face saved at: C:\Users\arya singh\EKYC\Project1\data\Data2\uploaded_face.jpg
+[2026-09-29 21:59:31,434: INFO: face_verification]: Extracting face...
+[2026-09-29 21:59:31,568: INFO: face_verification]: Extracted face saved at: C:\Users\arya singh\EKYC\Project1\data\Data2\extracted_face.jpg
+[2026-09-29 21:59:31,571: INFO: app]: Faces extracted and saved.
+[2026-09-29 21:59:31,571: INFO: face_verification]: Verifying the images....
+[2026-09-29 21:59:31,572: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\uploaded_face.jpg
+[2026-09-29 21:59:31,572: INFO: utils]: File exists at C:\Users\arya singh\EKYC\Project1\data\Data2\extracted_face.jpg
+[2026-09-29 21:59:32,010: INFO: face_verification]: Faces are verified as the same person
+[2026-09-29 21:59:32,011: INFO: app]: Face verification status: successful.
+[2026-09-29 21:59:32,011: INFO: ocr_engine]: Text Extraction Started...
+[2026-09-29 21:59:32,020: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2026-09-29 21:59:34,274: INFO: ocr_engine]: Inside Try-Catch...
+[2026-09-29 21:59:39,191: INFO: ocr_engine]: Extracted Text: |1|1|4|1|m!|h|1|H|H|8|83|9|
+[2026-09-29 22:16:52,767: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2026-09-29 22:17:01,736: INFO: ocr_engine]: OCR completed: 5 text regions passed confidence threshold
+[2026-09-29 22:17:48,916: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 22:17:48,951: INFO: preprocess]: contours are found at, (0, 0, 1280, 823)
+[2026-09-29 22:18:12,540: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 22:18:12,548: INFO: face_verification]: Extracting face...
+[2026-09-29 22:18:34,398: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 22:18:38,881: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 22:18:39,350: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 22:18:39,351: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 22:18:39,351: INFO: app]: ID card type selected: PAN
+[2026-09-29 22:18:39,352: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 23:14:08,139: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 23:14:17,193: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 23:14:37,364: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 23:14:41,487: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 23:18:35,140: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 23:18:35,488: INFO: face_verification]: Extracting face...
+[2026-09-29 23:18:35,495: INFO: face_verification]: Extracting face...
+[2026-09-29 23:18:35,506: INFO: face_verification]: Detected face crop in memory with model dimensions (160, 160)
+[2026-09-29 23:19:15,739: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 23:19:19,788: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 23:19:20,393: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 23:19:20,393: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 23:19:20,394: INFO: app]: ID card type selected: PAN
+[2026-09-29 23:19:20,394: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 23:19:48,000: WARNING: easyocr]: Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+[2026-09-29 23:19:58,328: INFO: ocr_engine]: OCR completed: 5 text regions passed confidence threshold
+[2026-09-29 23:20:02,601: INFO: ocr_engine]: OCR completed: 7 text regions passed confidence threshold
+[2026-09-29 23:20:06,763: INFO: ocr_engine]: OCR completed: 8 text regions passed confidence threshold
+[2026-09-29 23:41:20,187: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 23:41:20,233: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-29 23:41:20,261: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 23:41:20,263: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 23:41:20,270: INFO: app]: ID card type selected: PAN
+[2026-09-29 23:41:20,271: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 23:41:20,279: WARNING: app]: No ID card image uploaded.
+[2026-09-29 23:41:38,043: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 23:41:38,044: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 23:41:38,046: INFO: app]: ID card type selected: PAN
+[2026-09-29 23:41:38,046: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 23:41:46,948: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 23:41:46,949: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 23:41:46,951: INFO: app]: ID card type selected: PAN
+[2026-09-29 23:41:46,951: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 23:41:54,553: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 23:41:54,554: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 23:41:54,555: INFO: app]: ID card type selected: PAN
+[2026-09-29 23:41:54,556: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 23:42:09,491: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 23:42:09,492: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 23:42:09,494: INFO: app]: ID card type selected: PAN
+[2026-09-29 23:42:09,494: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 23:42:14,370: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 23:42:14,371: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 23:42:14,372: INFO: app]: ID card type selected: PAN
+[2026-09-29 23:42:14,373: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 23:42:16,068: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 23:42:16,069: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 23:42:16,070: INFO: app]: ID card type selected: PAN
+[2026-09-29 23:42:16,072: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 23:42:17,359: INFO: app]: Page layout set to wider configuration.
+[2026-09-29 23:42:17,360: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-29 23:42:17,362: INFO: app]: ID card type selected: PAN
+[2026-09-29 23:42:17,363: INFO: app]: Header set for PAN Card registration.
+[2026-09-29 23:42:17,405: INFO: app]: Face image loaded.
+[2026-09-29 23:42:17,422: INFO: app]: ID card image loaded.
+[2026-09-29 23:42:17,505: INFO: preprocess]: contours are found at, (0, 218, 773, 1062)
+[2026-09-29 23:42:17,506: INFO: app]: ID card ROI extracted.
+[2026-09-29 23:42:17,506: INFO: face_verification]: Extracting face...
+[2026-09-30 00:13:43,557: INFO: utils]: yaml  file: C:\Users\arya singh\EKYC\Project1\config.yaml loaded successfully
+[2026-09-30 00:13:43,568: INFO: face_verification]: Extracting face...
+[2026-09-30 00:13:44,485: INFO: face_verification]: Extracting face...
+[2026-09-30 00:13:44,532: INFO: face_verification]: Detected face crop in memory with model dimensions (160, 160)
+[2026-09-30 00:13:56,942: WARNING: module_wrapper]: From C:\Users\arya singh\AppData\Roaming\Python\Python313\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2026-09-30 00:14:05,509: INFO: face_verification]: Faces are verified as the same person
+[2026-09-30 00:14:20,085: INFO: utils]: yaml  file: C:\Users\arya singh\EKYC\Project1\config.yaml loaded successfully
+[2026-09-30 00:14:21,149: INFO: face_verification]: Extracting face...
+[2026-09-30 00:14:21,153: INFO: face_verification]: Extracting face...
+[2026-09-30 00:14:24,661: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-30 00:14:33,304: INFO: utils]: yaml  file: C:\Users\arya singh\EKYC\Project1\config.yaml loaded successfully
+[2026-09-30 00:14:41,332: INFO: utils]: yaml  file: C:\Users\arya singh\EKYC\Project1\config.yaml loaded successfully
+[2026-09-30 00:14:47,295: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-30 00:14:47,361: INFO: utils]: yaml  file: C:\Users\arya singh\EKYC\Project1\config.yaml loaded successfully
+[2026-09-30 00:14:47,390: INFO: app]: Page layout set to wider configuration.
+[2026-09-30 00:14:47,391: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-30 00:14:47,396: INFO: app]: ID card type selected: PAN
+[2026-09-30 00:14:47,397: INFO: app]: Header set for PAN Card registration.
+[2026-09-30 00:14:52,930: WARNING: module_wrapper]: From C:\Users\arya singh\AppData\Roaming\Python\Python313\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2026-09-30 00:15:12,964: INFO: utils]: yaml  file: C:\Users\arya singh\EKYC\Project1\config.yaml loaded successfully
+[2026-09-30 00:15:13,848: INFO: face_verification]: Extracting face...
+[2026-09-30 00:15:13,851: INFO: face_verification]: Extracting face...
+[2026-09-30 00:15:13,866: INFO: face_verification]: Detected face crop in memory with model dimensions (160, 160)
+[2026-09-30 00:15:37,499: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-30 00:15:45,126: INFO: utils]: yaml  file: C:\Users\arya singh\EKYC\Project1\config.yaml loaded successfully
+[2026-09-30 00:15:46,254: INFO: app]: Page layout set to wider configuration.
+[2026-09-30 00:15:46,255: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-30 00:15:46,256: INFO: app]: ID card type selected: PAN
+[2026-09-30 00:15:46,257: INFO: app]: Header set for PAN Card registration.
+[2026-09-30 00:15:52,804: INFO: utils]: yaml  file: C:\Users\arya singh\EKYC\Project1\config.yaml loaded successfully
+[2026-09-30 00:15:52,819: INFO: face_verification]: Extracting face...
+[2026-09-30 00:16:35,263: INFO: utils]: yaml  file: config.yaml loaded successfully
+[2026-09-30 00:16:42,376: INFO: utils]: yaml  file: C:\Users\arya singh\EKYC\Project1\config.yaml loaded successfully
+[2026-09-30 00:16:43,349: INFO: app]: Page layout set to wider configuration.
+[2026-09-30 00:16:43,349: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-30 00:16:43,351: INFO: app]: ID card type selected: PAN
+[2026-09-30 00:16:43,352: INFO: app]: Header set for PAN Card registration.
+[2026-09-30 00:32:40,373: INFO: app]: Page layout set to wider configuration.
+[2026-09-30 00:32:40,376: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-30 00:32:40,380: INFO: app]: ID card type selected: PAN
+[2026-09-30 00:32:40,380: INFO: app]: Header set for PAN Card registration.
+[2026-09-30 00:38:18,974: INFO: app]: Page layout set to wider configuration.
+[2026-09-30 00:38:18,975: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-30 00:40:08,549: INFO: app]: Page layout set to wider configuration.
+[2026-09-30 00:40:08,551: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-30 00:43:47,934: INFO: app]: Page layout set to wider configuration.
+[2026-09-30 00:43:47,934: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-30 00:48:57,532: INFO: app]: Page layout set to wider configuration.
+[2026-09-30 00:48:57,533: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-30 00:49:57,864: INFO: app]: Page layout set to wider configuration.
+[2026-09-30 00:49:57,870: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-30 00:53:28,387: INFO: app]: Page layout set to wider configuration.
+[2026-09-30 00:53:28,388: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-30 00:58:03,449: INFO: app]: Page layout set to wider configuration.
+[2026-09-30 00:58:03,449: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-30 00:58:22,567: INFO: app]: Page layout set to wider configuration.
+[2026-09-30 00:58:22,568: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-30 00:58:24,112: INFO: app]: Page layout set to wider configuration.
+[2026-09-30 00:58:24,112: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-30 00:58:24,115: WARNING: app]: Could not start Digio KYC session: The KYC API connection is not configured
+[2026-09-30 01:03:56,807: INFO: app]: Page layout set to wider configuration.
+[2026-09-30 01:03:56,808: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-30 01:04:04,432: INFO: app]: Page layout set to wider configuration.
+[2026-09-30 01:04:04,432: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-30 01:04:05,897: INFO: app]: Page layout set to wider configuration.
+[2026-09-30 01:04:05,898: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-30 01:04:06,590: INFO: _client]: HTTP Request: POST http://127.0.0.1:8000/api/kyc/sessions "HTTP/1.1 503 Service Unavailable"
+[2026-09-30 01:04:06,591: WARNING: app]: Could not start Digio KYC session: Application API token is not configured
+[2026-09-30 01:07:23,258: INFO: app]: Page layout set to wider configuration.
+[2026-09-30 01:07:23,259: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-30 01:07:28,621: INFO: app]: Page layout set to wider configuration.
+[2026-09-30 01:07:28,621: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-30 01:07:29,852: INFO: app]: Page layout set to wider configuration.
+[2026-09-30 01:07:29,853: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-30 01:07:31,012: INFO: app]: Page layout set to wider configuration.
+[2026-09-30 01:07:31,013: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-30 01:07:31,598: INFO: _client]: HTTP Request: POST http://127.0.0.1:8000/api/kyc/sessions "HTTP/1.1 503 Service Unavailable"
+[2026-09-30 01:07:31,599: WARNING: app]: Could not start Digio KYC session: Application API token is not configured
+[2026-09-30 01:13:41,105: INFO: app]: Page layout set to wider configuration.
+[2026-09-30 01:13:41,106: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-30 01:13:46,077: INFO: app]: Page layout set to wider configuration.
+[2026-09-30 01:13:46,078: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-30 01:13:47,122: INFO: app]: Page layout set to wider configuration.
+[2026-09-30 01:13:47,122: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-30 01:13:47,592: INFO: _client]: HTTP Request: POST http://127.0.0.1:8000/api/kyc/sessions "HTTP/1.1 401 Unauthorized"
+[2026-09-30 01:13:47,592: WARNING: app]: Could not start Digio KYC session: Invalid application token
+[2026-09-30 01:13:52,970: INFO: app]: Page layout set to wider configuration.
+[2026-09-30 01:13:52,971: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-30 01:13:53,405: INFO: _client]: HTTP Request: POST http://127.0.0.1:8000/api/kyc/sessions "HTTP/1.1 401 Unauthorized"
+[2026-09-30 01:13:53,405: WARNING: app]: Could not start Digio KYC session: Invalid application token
+[2026-09-30 01:16:59,185: INFO: app]: Page layout set to wider configuration.
+[2026-09-30 01:16:59,188: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-30 01:17:05,433: INFO: app]: Page layout set to wider configuration.
+[2026-09-30 01:17:05,433: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-30 01:17:06,905: INFO: app]: Page layout set to wider configuration.
+[2026-09-30 01:17:06,906: INFO: app]: Custom theme applied to Streamlit app.
+[2026-09-30 01:17:07,401: INFO: _client]: HTTP Request: POST http://127.0.0.1:8000/api/kyc/sessions "HTTP/1.1 401 Unauthorized"
+[2026-09-30 01:17:07,402: WARNING: app]: Could not start Digio KYC session: Invalid application token
+[2026-09-30 06:46:28,808: ERROR: base_events]: Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Program Files\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2026-09-30 06:46:29,055: ERROR: base_events]: Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Program Files\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2026-09-30 07:22:19,323: ERROR: base_events]: Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Program Files\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2026-09-30 07:52:19,898: ERROR: base_events]: Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Program Files\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host

@@ -1,0 +1,80 @@
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
+    env_file:
+      - .env
+    environment:
+      API_DOCS_ENABLED: "true"
+      KYC_SESSION_DB_PATH: /app/data/kyc_sessions.sqlite3
+    ports:
+      - "127.0.0.1:8000:8000"
+    volumes:
+      - backend-data:/app/data
+    tmpfs:
+      - /app/logs:rw,noexec,nosuid,size=16m
+      - /tmp:rw,noexec,nosuid,size=64m
+    read_only: true
+    init: true
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
+    healthcheck:
+      test: ["CMD", "python", "-c", "from urllib.request import urlopen; urlopen('http://127.0.0.1:8000/health', timeout=2)"]
+      interval: 30s
+      timeout: 3s
+      start_period: 10s
+      retries: 3
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile.frontend
+    environment:
+      APP_API_TOKEN: ${APP_API_TOKEN:?Set APP_API_TOKEN in .env}
+      KYC_API_URL: http://backend:8000
+    depends_on:
+      backend:
+        condition: service_healthy
+    ports:
+      - "127.0.0.1:8501:8501"
+    tmpfs:
+      - /app/logs:rw,noexec,nosuid,size=16m
+      - /tmp:rw,noexec,nosuid,size=64m
+    read_only: true
+    init: true
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
+    healthcheck:
+      test: ["CMD", "python", "-c", "from urllib.request import urlopen; urlopen('http://127.0.0.1:8501/_stcore/health', timeout=2)"]
+      interval: 30s
+      timeout: 3s
+      start_period: 15s
+      retries: 3
+    restart: unless-stopped
+
+  prometheus:
+    image: prom/prometheus:v3.5.0
+    command:
+      - --config.file=/etc/prometheus/prometheus.yml
+      - --storage.tsdb.path=/prometheus
+      - --storage.tsdb.retention.time=15d
+      - --web.enable-lifecycle
+    ports:
+      - "127.0.0.1:9090:9090"
+    volumes:
+      - ./monitoring/prometheus-compose.yml:/etc/prometheus/prometheus.yml:ro
+      - prometheus-data:/prometheus
+    depends_on:
+      backend:
+        condition: service_healthy
+    restart: unless-stopped
+
+volumes:
+  backend-data:
+  prometheus-data:
