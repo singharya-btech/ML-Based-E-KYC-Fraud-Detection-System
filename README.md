@@ -100,6 +100,8 @@ kubectl create secret generic ekyc-secrets -n ekyc --from-env-file=.env
 
 Create the Prometheus scrape ConfigMap and deploy the application and monitoring stack:
 
+<img width="959" height="356" alt="image" src="https://github.com/user-attachments/assets/c8b14870-37b7-4e0a-9258-7212643f5184" />
+
 ```powershell
 kubectl create configmap prometheus-config -n ekyc --from-file=prometheus.yml=monitoring/prometheus-kubernetes.yml
 kubectl apply -f kubernetes/app.yaml
